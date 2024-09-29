@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://rericinibadu.netlify.app/sitemap.xml
